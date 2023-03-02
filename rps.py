@@ -80,4 +80,4 @@ def jogar():
         time.sleep(2)
 
         if rodada > 5:
-            finalizar_jogo(nome_jogador, pontos_jogador
+            finalizar_jogo(nome_jogador, pontos_jogador)
